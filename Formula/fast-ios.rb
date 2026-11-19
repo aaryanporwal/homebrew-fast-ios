@@ -1,8 +1,8 @@
 class FastIos < Formula
   desc "Light iOS simulators: one switch, and a simulator pool for agents"
   homepage "https://github.com/aaryanporwal/fast-ios"
-  url "https://github.com/aaryanporwal/fast-ios/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "dc595334924d6994a5f8c2282ec4a2378a586ddb0f269f9c4d3a0cd9e23ab7eb"
+  url "https://github.com/aaryanporwal/fast-ios/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "913287e18f0818abc26690955bf9a1d615200351050df1f0a56f4e2999eb3643"
   license "MIT"
   head "https://github.com/aaryanporwal/fast-ios.git", branch: "main"
 
